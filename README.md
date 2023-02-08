@@ -1,7 +1,8 @@
 # Zoomsl v3.2
-
+## Screenshot
 ![image](https://user-images.githubusercontent.com/4000929/217397024-6e60b354-4845-4229-8c0b-6c4bfacdea8b.png)
 
+## Configuration
 ```js
 //default settings
 loadinggif: "", // image shown when loading a big image
@@ -48,3 +49,9 @@ classstatusdiv: "statusdiv",
 classtextdn: "textdn",
 classtracker: "tracker"
 ```
+
+## Image Placeholder loading animation
+![Image Placeholder loading animation](https://raw.githubusercontent.com/eapo/zoom-img/master/img-load.gif)
+
+This animation is `base64` encoded in the [zoom-img/js](https://github.com/eapo/zoom-img/tree/master/js).
+The Animation created based: [File:Placeholder view vector.svg - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Placeholder_view_vector.svg)
